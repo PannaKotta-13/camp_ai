@@ -1,8 +1,5 @@
-# This is first gameful roadmap in AI-studying 
+# CampAI 
 ___
-Folder 'Experiments' - it's storage of lections  
 
-Folder 'Projects' - it's true tressure storage, where will be store my future projects  
-
-Folder 'Quests' - only quests  
+This is simply my own journey toward becoming an AI developer—starting with simple tasks and gradually moving on to complex ones.
 
