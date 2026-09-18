@@ -1,9 +1,12 @@
 {
-    "python.testing.cwd": "${workspaceFolder}/quests/q-08",
+    "python.testing.cwd": "${workspaceFolder}/quests/act_one",
     "python.testing.pytestArgs": [
         "tests"
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true,
+    "python.analysis.extraPaths": [
+        "./quests/act_one/src"
+    ],
     
 }
