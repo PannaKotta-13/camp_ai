@@ -1,5 +1,11 @@
-# CampAI 
-___
+# CampAI
 
-This is simply my own journey toward becoming an AI developer—starting with simple tasks and gradually moving on to complex ones.
+**CampAI** — мой личный путеводитель для отслеживания персональных целей, разрабатываемый в рамках глубокого изучения Python и практик тестирования ПО.
 
+## Технологический стек и инструменты
+* **Language:** Python 3.14
+* **Testing:** `pytest` 
+* **Linter:** `ruff`
+* **Package & Environment Management:** `uv`
+
+**Немного дополнительно:** CampAI является неким путеводителем, который упрощает понимание того (лично для меня), как правильно ставить свои цели и продвигаться по ним. Всё это - обычный набор folder-ов с .py файлами, которые перед публикацией проверяются через uv ruff check name.py, тестируются через uv run pytest -v и только потом пушатся в публичный репозиторий.
